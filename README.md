@@ -39,6 +39,6 @@ Currently pursuing **professional growth** while working at **Amazon**. Focused 
 ---
 
 ### 💬 Inspiration 
-<img src="images/" alt="A description of what the image shows">
+<img src="images/iIPSBz0.jpg" alt="Image">
 > “Growth is not just about reaching new heights, but about becoming stronger through every step of the climb.”
 
